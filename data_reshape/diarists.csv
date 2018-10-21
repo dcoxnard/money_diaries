@@ -1,0 +1,292 @@
+index,salary,location,url
+0,37100.0,"Dublin, Ireland",https://www.refinery29.com/money-diary-dublin-ireland-digital-marketing-account-manager-salary
+1,85000.0,"Las Vegas, NV",https://www.refinery29.com/money-diary-las-vegas-vice-president-salary
+2,919216.0,Singapore,https://www.refinery29.com/money-diary-singapore-consultant-salary
+3,65000.0,"Boise, ID",https://www.refinery29.com/money-diary-boise-id-sales-manager-salary
+4,36400.0,"Los Angeles, CA",https://www.refinery29.com/money-diary-los-angeles-ca-stylist-salary
+5,25000.0,"Daejeon, South Korea",https://www.refinery29.com/money-diary-daejeon-south-korea-guest-english-teacher-salary
+6,165000.0,"Central Valley, CA",https://www.refinery29.com/money-diary-central-valley-california-part-time-attorney-salary
+7,106000.0,New York City,https://www.refinery29.com/money-diary-new-york-ny-program-director-salary
+8,79000.0,"Boston, MA",https://www.refinery29.com/money-diary-boston-ma-marketing-data-analyst-salary
+9,50000.0,"Salt Lake City, UT",https://www.refinery29.com/money-diary-salt-lake-city-graphic-designer-salary
+10,38000.0,"Norman, OK",https://www.refinery29.com/money-diary-norman-oklahoma-assistant-director-salary
+11,135000.0,"Los Angeles, CA",https://www.refinery29.com/money-diary-los-angeles-ca-video-editor-salary
+12,121000.0,"Conroe, TX",https://www.refinery29.com/money-diary-conroe-tx-teacher-salary
+13,165000.0,"St. Paul, MN",https://www.refinery29.com/money-diary-st-paul-mn-corporate-accounting-manager-salary
+14,99000.0,New York City,https://www.refinery29.com/money-diary-new-york-new-york-senior-analyst-salary
+15,65000.0,"Petaluma, CA",https://www.refinery29.com/money-diary-petaluma-ca-digital-marketing-specialist-salary
+16,31200.0,Upstate New York,https://www.refinery29.com/money-diary-upstate-new-york-program-manager-salary
+17,91972.0,"Melbourne, Australia",https://www.refinery29.com/money-diary-melbourne-australia-doctor-salary
+18,77088.0,Singapore,https://www.refinery29.com/money-diary-singapore-partner-manager-salary
+19,114500.0,"San Francisco, CA",https://www.refinery29.com/money-diary-san-francisco-bay-area-gameplay-engineer-salary
+20,32084.0,New York City,https://www.refinery29.com/money-diary-new-york-city-project-coordinator-salary
+21,38000.0,"Detroit, MI",https://www.refinery29.com/money-diary-detroit-michigan-copywriter-salary
+22,60000.0,Southern New Hampshire,https://www.refinery29.com/money-diary-southern-new-hampshire-registered-nurse-salary
+23,42000.0,"Chicago, IL",https://www.refinery29.com/money-diary-chicago-il-copywriter-salary
+24,39500.0,"Vancouver, BC",https://www.refinery29.com/money-diary-vancouver-bc-key-account-specialist-salary
+25,47000.0,"Boston, MA",https://www.refinery29.com/money-diary-boston-ma-communication-specialist-salary
+26,70000.0,New York City,https://www.refinery29.com/money-diary-new-york-ny-programmer-salary
+27,32780.0,"Niigata, Japan",https://www.refinery29.com/money-diary-niigata-japan-assistant-language-teacher-salary
+28,112500.0,"San Diego, CA",https://www.refinery29.com/money-diary-san-diego-human-resources-manager-salary
+29,37000.0,"New Orleans, LA",https://www.refinery29.com/money-diary-new-orleans-la-associate-clinical-research-coordinator-salary
+30,55000.0,"Los Angeles, CA",https://www.refinery29.com/money-diary-los-angeles-ca-office-manager-salary
+31,43500.0,"Seattle, WA",https://www.refinery29.com/money-diary-seattle-washington-environmental-specialist-salary
+32,62000.0,"Dallas, TX",https://www.refinery29.com/money-diary-dallas-graphic-designer-salary
+33,40000.0,"Washington, D.C.",https://www.refinery29.com/money-diary-washington-dc-staff-assistant-salary
+34,115000.0,New York City,https://www.refinery29.com/money-diary-new-york-ny-entrepreneur-salary
+35,65000.0,"Hamburg, Germany",https://www.refinery29.com/money-diary-hamburg-clinical-project-manager-salary
+36,92000.0,"Bentonville, AR",https://www.refinery29.com/money-diary-bentonville-ar-project-manager-managing-director-salary
+37,50000.0,"Las Vegas, NV",https://www.refinery29.com/money-diary-las-vegas-nv-gaming-analyst-salary
+38,260000.0,"San Diego, CA",https://www.refinery29.com/money-diary-san-diego-ca-materials-engineer-salary
+39,55000.0,"Hoboken, NJ",https://www.refinery29.com/money-diary-hoboken-nj-media-strategist-salary
+40,36960.0,"Dubai, United Arab Emirates",https://www.refinery29.com/money-diary-dubai-united-arab-emirates-social-studies-teacher-salary
+41,111000.0,"Buffalo, NY",https://www.refinery29.com/money-diary-buffalo-ny-adminsales-support-salary
+42,96925.0,"Melbourne, Australia",https://www.refinery29.com/money-diary-melbourne-australia-police-call-taker-salary
+43,44000.0,"Baltimore, MD",https://www.refinery29.com/money-diary-baltimore-program-associate-salary
+44,55000.0,"Atlanta, GA",https://www.refinery29.com/money-diary-atlanta-ga-paralegal-salary
+45,46000.0,"Los Angeles, CA",https://www.refinery29.com/money-diary-los-angeles-ca-marketing-coordinator-salary
+46,45000.0,"Dallas, TX",https://www.refinery29.com/money-diary-dallas-tx-social-media-assistant-salary
+47,52000.0,"Seattle, WA",https://www.refinery29.com/money-diary-seattle-wa-graphic-design-marketing-salary
+48,165500.0,"Charlotte, NC",https://www.refinery29.com/money-diary-charlotte-nc-senior-accountant-salary
+49,66000.0,"Dallas, TX",https://www.refinery29.com/money-diary-dallas-tx-project-writer-salary
+50,68000.0,New York City,https://www.refinery29.com/money-diary-new-york-associate-fashion-designer-salary
+51,23150.0,"Cape Town, South Africa",https://www.refinery29.com/money-diary-cape-town-south-africa-digital-account-manager-salary
+52,40000.0,Massachusetts,https://www.refinery29.com/money-diary-massachusetts-copywriter-salary
+53,62878.0,"Baltimore, MD",https://www.refinery29.com/money-diary-baltimore-md-senior-media-relations-representative-salary
+54,270000.0,"Silicon Valley, CA",https://www.refinery29.com/money-diary-silicon-valley-deputy-director-salary
+55,40000.0,"Somerville, MA",https://www.refinery29.com/money-diary-somerville-ma-food-stamps-advocate-salary
+56,122500.0,London,https://www.refinery29.com/money-diary-london-lawyer-salary
+57,52000.0,New York City,https://www.refinery29.com/money-diary-new-york-ny-social-worker-salary
+58,158000.0,"Jacksonville, FL",https://www.refinery29.com/money-diary-jacksonville-fl-vacation-rental-manager-salary
+59,18.0,"Boston, MA",https://www.refinery29.com/money-diary-boston-ma-patient-care-technician-salary
+60,115000.0,"Birmingham, AL",https://www.refinery29.com/money-diary-alabama-attorney-salary
+61,125000.0,"San Francisco, CA",https://www.refinery29.com/money-diary-san-francisco-project-manager-salary
+62,32800.0,"Cambridge, MA",https://www.refinery29.com/money-diary-cambridge-ma-lead-toddler-teacher-salary
+63,66000.0,"Arlington, VA",https://www.refinery29.com/money-diary-arlington-va-analyst-salary
+64,65000.0,"Somerville, MA",https://www.refinery29.com/money-diary-somerville-ma-it-analyst-salary
+65,80000.0,"Austin, TX",https://www.refinery29.com/money-diary-austin-tx-senior-associate-executive-recruiter-salary
+66,70000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-new-york-city-recruiting-director-salary
+67,52000.0,"Seattle, WA",https://www.refinery29.com/money-diary-seattle-behavioral-health-manager-salary
+68,51000.0,"Worcester, MA",https://www.refinery29.com/money-diary-worcester-ma-program-manager-salary
+69,18000.0,"Missoula, MT",https://www.refinery29.com/money-diary-missoula-mt-freelance-graphic-designer-salary
+70,71400.0,"Los Angeles, CA",https://www.refinery29.com/money-diary-los-angeles-ca-project-engineer-salary
+71,23000.0,"Ulsan, South Korea",https://www.refinery29.com/money-diary-south-korea-english-teacher-salary
+72,49500.0,"Kansas City, MO",https://www.refinery29.com/money-diary-kansas-city-mo-associate-consultant-salary
+73,95000.0,New York City,https://www.refinery29.com/money-diary-new-york-software-sales-executive-salary
+74,86825.0,London,https://www.refinery29.com/money-diary-london-freelance-copywriter-joint-salary
+75,27000.0,"Cleveland, OH",https://www.refinery29.com/money-diary-cleveland-oh-childrens-librarian-salary
+76,68250.0,"Charlotte, NC",https://www.refinery29.com/money-diary-charlotte-north-carolina-associate-salary
+77,75000.0,"Long Beach, CA",https://www.refinery29.com/money-diary-long-beach-project-director-salary
+78,48630.0,Singapore,https://www.refinery29.com/money-diary-singapore-structural-engineer-salary
+79,37800.0,"Phoenix, AZ",https://www.refinery29.com/money-diary-phoenix-assistant-salary
+80,52000.0,Connecticut,https://www.refinery29.com/money-diary-connecticut-luxury-travel-manager-salary
+81,13500.0,"Philadelphia, PA",https://www.refinery29.com/money-diary-philadelphia-pa-graduate-assistant-salary
+82,35000.0,"Chicago, IL",https://www.refinery29.com/money-diary-chicago-il-executive-recruiter-salary
+83,114000.0,Wisconsin,https://www.refinery29.com/money-diary-wisconsin-financial-planner-salary
+84,56687.0,"Washington, D.C.",https://www.refinery29.com/money-diary-washington-dc-school-counselor-salary
+85,83000.0,"Boston, MA",https://www.refinery29.com/money-diary-boston-ma-project-controller-salary
+86,53000.0,"Anchorage, Alaska",https://www.refinery29.com/money-diary-anchorage-alaska-behavioral-health-counselor-salary
+87,112000.0,"San Jose, CA",https://www.refinery29.com/money-diary-san-jose-ca-product-manager-salary
+88,66000.0,"Holland, MI",https://www.refinery29.com/money-diary-holland-mi-administrative-assistant-salary
+89,82400.0,Northern New Jersey,https://www.refinery29.com/money-diary-northern-new-jersey-lead-user-experience-designer-salary
+90,165000.0,New York City,https://www.refinery29.com/money-diary-new-york-freelance-copywriter-part-time-sales-associate-salary
+91,20800.0,Singapore,https://www.refinery29.com/money-diary-singapore-video-producer-salary
+92,19100.0,"Marseille, France",https://www.refinery29.com/money-diary-marseille-child-care-assistant-salary
+93,65000.0,"Detroit, MI",https://www.refinery29.com/money-diary-detroit-mi-senior-executive-assistant-salary
+94,130000.0,"Glendale, CA",https://www.refinery29.com/money-diary-glendale-ca-communications-manager-salary
+95,340000.0,"Houston, TX",https://www.refinery29.com/money-diary-houston-tx-lawyer-salary
+96,100000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-new-york-hr-manager-salary
+97,87200.0,"Austin, TX",https://www.refinery29.com/money-diary-austin-tx-administrator-executive-assistant-salary
+98,57800.0,"Denver, CO",https://www.refinery29.com/money-diary-denver-co-account-manager-salary
+99,50000.0,"New Haven, CT",https://www.refinery29.com/money-diary-new-haven-ct-account-manager-salary
+100,92700.0,"Berkeley, CA",https://www.refinery29.com/money-diary-berkeley-ca-technology-consultant-salary
+101,47000.0,"Houston, TX",https://www.refinery29.com/money-diary-houston-tx-marketing-specialist-salary
+102,62000.0,"Baltimore, MD",https://www.refinery29.com/money-diary-baltimore-creative-director-salary
+103,40000.0,New York City,https://www.refinery29.com/money-diary-new-york-city-film-distributor-salary
+104,70000.0,"Lisbon, Portugal",https://www.refinery29.com/money-diary-lisbon-portugal-digital-nomad-sales-salary
+105,59500.0,Barcelona,https://www.refinery29.com/money-diary-barcelona-cmo-salary
+106,150000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-new-york-corporate-innovation-manager-salary
+107,80000.0,"Paris, France",https://www.refinery29.com/money-diary-paris-fragrance-evaluator-salary
+108,280000.0,"London, England",https://www.refinery29.com/money-diary-london-england-director-salary
+109,35.0,"Los Angeles, CA",https://www.refinery29.com/money-diary-los-angeles-portfolio-coordinator-salary
+110,55000.0,"Rockville, MD",https://www.refinery29.com/money-diary-rockville-maryland-salary
+111,1.5,New York City,https://www.refinery29.com/money-diary-manhattan-ny-managing-director-salary
+112,192000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-people-manager-joint-salary
+113,46000.0,"Miami, FL",https://www.refinery29.com/money-diary-miami-food-editor-salary
+114,93000.0,"San Jose, CA",https://www.refinery29.com/money-diary-san-jose-ca-content-manager-salary
+115,65000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-dual-language-classroom-teacher-salary
+116,90000.0,"Honolulu, HI",https://www.refinery29.com/money-diary-honolulu-hi-consultant-salary
+117,38000.0,"Chicago, IL",https://www.refinery29.com/money-diary-chicago-il-receptionist-salary
+118,95000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-sales-director-salary
+119,75000.0,"Washington, D.C.",https://www.refinery29.com/money-diary-washington-dc-marketing-manager-salary
+120,85000.0,"Los Angeles, CA",https://www.refinery29.com/money-diary-los-angeles-marketing-analytics-manager-salary
+121,55000.0,New York City,https://www.refinery29.com/money-diary-new-york-city-associate-producer-salary
+122,84000.0,"Atlanta, GA",https://www.refinery29.com/money-diary-atlanta-ga-data-analyst-salary
+123,61000.0,"Roseville, CA",https://www.refinery29.com/money-diary-roseville-ca-registered-nurse-salary
+124,65000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-copywriter-salary
+125,267000.0,"Mound House, NV",https://www.refinery29.com/money-diary-nevada-legal-sex-worker-salary
+126,35000.0,"Jacksonville, FL",https://www.refinery29.com/money-diary-jacksonville-fl-copywriter-salary
+127,80000.0,The Midwest,https://www.refinery29.com/money-diary-midwest-city-project-manager-budget
+128,35000.0,"Austin, TX",https://www.refinery29.com/money-diary-austin-texas-editor-budget
+129,43000.0,NYC,https://www.refinery29.com/money-diary-nyc-financial-coordinator-budget
+130,42639.0,Berlin,https://www.refinery29.com/money-diary-berlin-social-media-marketing-manager-budget
+131,56000.0,Los Angeles,https://www.refinery29.com/money-diary-los-angeles-biomedical-research-analyst-budget
+132,11.0,"Flushing, Queens",https://www.refinery29.com/money-diary-flushing-queens-new-york-student-pr-intern-budget
+133,138000.0,Miami,https://www.refinery29.com/money-diary-miami-fl-attorney-budget
+134,48000.0,"Charleston, SC",https://www.refinery29.com/money-diary-charleston-sc-librarian-faculty-budget
+135,60000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-executive-assistant-budget
+136,89489.0,"Homer, Alaska",https://www.refinery29.com/money-diary-homer-alaska-institutional-strategist-budget
+137,18000.0,"Berkeley, CA",https://www.refinery29.com/money-diary-berkeley-ca-hostess-au-pair-salary
+138,90000.0,NYC,https://www.refinery29.com/money-diary-new-york-ny-analyst-budget-1491242753021
+139,50000.0,Salt Lake City,https://www.refinery29.com/money-diary-salt-lake-city-auditor-salary
+140,32520.0,Upstate New York,https://www.refinery29.com/money-diary-upstate-new-york-cosmetologist-salary
+141,75000.0,NYC,https://www.refinery29.com/money-diary-nyc-hr-budget
+142,74000.0,"Washington, D.C.",https://www.refinery29.com/money-diary-washington-dc-womens-march-budget
+143,50000.0,Brooklyn,https://www.refinery29.com/money-diary-brooklyn-research-analyst-budget
+144,20.0,"Boulder, Colorado",https://www.refinery29.com/money-diary-non-profit-attorney-colorado-budget
+145,39500.0,Brooklyn,https://www.refinery29.com/money-diary-brooklyn-publicity-associate-budge
+146,0.0,New Jersey,https://www.refinery29.com/money-diary-new-jersey-unemployment-budget
+147,53000.0,Copenhagen,https://www.refinery29.com/money-diary-copenhagen-copywriter-budget
+148,31.0,NYC,https://www.refinery29.com/money-diary-fashion-journalist-new-york-budget
+149,60000.0,Seattle,https://www.refinery29.com/money-diary-biotechnology-seattle-budget
+150,127000.0,NYC,https://www.refinery29.com/money-diary-tech-business-function-budget
+151,44000.0,Shanghai,https://www.refinery29.com/money-diary-shanghai-journalist-budget
+152,12000.0,NYC,https://www.refinery29.com/money-diary-bushwick-budget
+153,24000.0,A Week Biking To San Francisco,https://www.refinery29.com/money-diary-park-city-utah-ski-instructor
+154,90000.0,A Week As A Cam Girl,https://www.refinery29.com/money-diary-san-francisco-cam-girl-budget
+155,45000.0,NYC,https://www.refinery29.com/money-diary-new-york-librarian-salary
+156,108000.0,London,https://www.refinery29.com/money-diary-london-media-budget
+157,50000.0,NYC,https://www.refinery29.com/money-diary-interior-designer-new-york-city
+158,108000.0,Houston,https://www.refinery29.com/money-diary-houston-engineer
+159,42000.0,Chicago,https://www.refinery29.com/money-diary-chicago-higher-education-budget
+160,0.0,"""Trying To Bring Lunch To Work More Often,"" Says Everyone, Ever.",https://www.refinery29.com/money-diary-fashion-budget
+161,0.0,How Much Does It Cost To Live Abroad?,https://www.refinery29.com/money-diary-new-york-to-berlin-budget
+162,276000.0,Shanghai,https://www.refinery29.com/money-diary-shanghai-marketing-budget
+163,65.0,NYC,https://www.refinery29.com/money-diary-designer-new-york-city
+164,120.0,NYC,https://www.refinery29.com/money-diary-product-manager-new-york-city-budget
+165,40.0,NYC,https://www.refinery29.com/money-diary-photo-director-new-york-city-budget
+166,32000.0,L.A.,https://www.refinery29.com/money-diary-tech-woman-los-angeles-budget
+167,0.0,How Much,https://www.refinery29.com/money-diary-new-york-city-budget-valentines-day
+168,0.0,How Much $ A Fashion Editor Spends During Fashion Week,https://www.refinery29.com/money-diary-fashion-editor-new-york-city-budget
+169,0.0,How Much $ A Portland Woman Spends,https://www.refinery29.com/money-diary-portland-budget
+170,0.0,How Much $ An Austin Woman Spends,https://www.refinery29.com/money-diary-austin-budget
+171,240000.0,New York,https://www.refinery29.com/money-diary-new-york-teacher-mother
+172,160.0,Silicon Valley,https://www.refinery29.com/money-diary-san-francisco-tech
+173,46.0,Iowa City,https://www.refinery29.com/money-diary-iowa-city-budget
+174,73000.0,L.A.,https://www.refinery29.com/money-diary-los-angeles-startup-budget
+175,55000.0,NYC,https://www.refinery29.com/money-diary-social-media-strategist-new-york-city
+176,118000.0,Singapore,https://www.refinery29.com/money-diary-singapore-finance
+177,100000.0,NYC,https://www.refinery29.com/money-diary-architect-new-york-city
+178,14000.0,Boston,https://www.refinery29.com/money-diary-boston-healthcare-budget
+179,42000.0,NYC,https://www.refinery29.com/money-diary-fashion-photographer-new-york
+180,80.0,"Washington, D.C.",https://www.refinery29.com/money-diary-washington-dc-lobbyist
+181,130.0,NYC,https://www.refinery29.com/money-diary-cpa-finance-budget
+182,47000.0,"Sydney, Australia",https://www.refinery29.com/money-diary-music-journalist-sydney-australia
+183,46000.0,Milwaukee,https://www.refinery29.com/money-diary-milawukee-salary
+184,44000.0,Boston,https://www.refinery29.com/money-diary-boston-social-media-manager
+185,30000.0,NYC,https://www.refinery29.com/money-diary-freelancer-budget-new-york-city
+186,44000.0,The Bay Area,https://www.refinery29.com/money-diary-bay-area-teacher-mother
+187,1500.0,How,https://www.refinery29.com/money-diary-san-francisco-biotech-budget
+188,15.0,"Durham, N.C.",https://www.refinery29.com/money-diary-durham-barista-graduate-assistant-budget
+189,46000.0,NYC,https://www.refinery29.com/money-diary-new-york-city-receptionist-budget
+190,800.0,Madrid,https://www.refinery29.com/money-diary-madrid-masters-student-budget
+191,240000.0,NYC,https://www.refinery29.com/money-diary-attorney-new-york-budget
+192,13.0,"Louisville, KY",https://www.refinery29.com/money-diary-louisville-budget
+193,36000.0,NYC,https://www.refinery29.com/money-diary-digital-media-editorial-budget
+194,25668.0,Paris,https://www.refinery29.com/money-diary-events-coordinator-paris-budget
+195,82500.0,NYC,https://www.refinery29.com/money-diary-nyc-accountant-budget
+196,40000.0,"Plano, TX",https://www.refinery29.com/money-diary-plano-texas-customer-specialist-budget
+197,55000.0,Brooklyn,https://www.refinery29.com/money-diary-brooklyn-researcher-budget
+198,73000.0,"Juneau, Alaska",https://www.refinery29.com/money-diary-juneau-alaska-administration-officer-server-budget
+199,85000.0,"New York, NY",https://www.refinery29.com/money-diary-new-york-ny-art-collection-manager-budget
+200,60000.0,San Francisco,https://www.refinery29.com/money-diary-san-francisco-events-manager-budget
+201,52000.0,Los Angeles,https://www.refinery29.com/money-diary-los-angeles-copywriter-budget
+202,40000.0,Chicago,https://www.refinery29.com/money-diary-chicago-digital-marketing-manager-budget
+203,34000.0,Brooklyn,https://www.refinery29.com/money-diary-brooklyn-production-assistant-budget
+204,68000.0,Dallas,https://www.refinery29.com/money-diary-dallas-tx-web-analyst-budget
+205,50000.0,NYC,https://www.refinery29.com/money-diary-lower-east-side-content-editor-budget
+206,57720.0,Santa Fe,https://www.refinery29.com/money-diary-santa-fe-new-mexico-geophysicist-budget
+207,32000.0,New York City,https://www.refinery29.com/money-diary-new-york-ny-writer-salary
+208,106000.0,"Philadelphia, PA",https://www.refinery29.com/money-diary-philadelphia-senior-program-manager-salary
+209,1250.0,"Los Angeles, CA",https://www.refinery29.com/money-diary-los-angeles-executive-director-salary
+210,62000.0,"New York, NY",https://www.refinery29.com/money-diary-new-york-ny-specialist-salary
+211,360000.0,Texas,https://www.refinery29.com/money-diary-texas-vitreo-retinal-surgeon-salary
+212,129000.0,"Santa Barbara, CA",https://www.refinery29.com/money-diary-santa-barbara-ca-architect-salary
+213,30000.0,"Chicago, IL",https://www.refinery29.com/money-diary-chicago-il-rd-food-technician
+214,115000.0,"Long Island City, NY",https://www.refinery29.com/money-diary-long-island-city-ny-innovation-strategist-salary
+215,21000.0,"Nashville, TN",https://www.refinery29.com/money-diary-nashville-graduate-program-administrative-assistant-salary
+216,52500.0,"Oakland, CA",https://www.refinery29.com/money-diary-oakland-ca-project-manager-salary
+217,132600.0,New  York City,https://www.refinery29.com/money-diary-new-york-ny-marketing-manager-salary
+218,11000.0,"Atlanta, GA",https://www.refinery29.com/money-diary-atlanta-ga-full-time-student-server-salary
+219,35000.0,"Boston, MA",https://www.refinery29.com/money-diary-boston-ma-research-assistant-salary
+220,35000.0,"Chicago, IL",https://www.refinery29.com/money-diary-chicago-il-public-affairs-specialist-salary
+221,100000.0,New York City,https://www.refinery29.com/money-diary-new-york-ny-paralegal-manager-salary
+222,190000.0,"Philadelphia, PA",https://www.refinery29.com/money-diary-philadelphia-manager-competitive-marketing-strategy-salary
+223,90000.0,"Somerville, MA",https://www.refinery29.com/money-diary-somerville-ma-regulatory-affairs-manager-salary
+224,58614.0,"Fayetteville, AR",https://www.refinery29.com/money-diary-fayetteville-ar-analyst-quality-control-coordiantor-salary
+225,130000.0,"St. Paul, MN",https://www.refinery29.com/money-diary-st-paul-minnesota-vice-president-student-affairs-salary
+226,450.0,"Oakland, CA",https://www.refinery29.com/money-diary-oakland-ca-creative-freelancer-salary
+227,77837.0,London,https://www.refinery29.com/money-diary-london-birmingham-hr-advisor-salary
+228,55000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-copywriter-freelancer-salary
+229,81000.0,"Dallas, TX",https://www.refinery29.com/money-diary-dallas-tx-marketing-manager-salary
+230,60000.0,"Minneapolis, MN",https://www.refinery29.com/money-diary-minneapolis-mn-recruiter-salary
+231,63500.0,"Denver, CO",https://www.refinery29.com/money-diary-denver-co-land-use-planner-salary
+232,0.0,"San Jose, CA",https://www.refinery29.com/money-diary-san-jose-ca-content-marketing-manager-salary
+233,29000.0,"Tampa, FL",https://www.refinery29.com/money-diary-tampa-medical-assistant-salary
+234,18.0,"Bucks County, PA",https://www.refinery29.com/money-diary-bucks-county-pennsylvania-waitress-front-of-house-manager-salary
+235,67000.0,New York City,https://www.refinery29.com/money-diary-new-york-ny-service-coordinator-salary
+236,9.0,"Chattanooga, TN",https://www.refinery29.com/money-diary-chattanooga-tn-student-after-school-teacher-salary
+237,24.0,"Seattle, WA",https://www.refinery29.com/money-diary-seattle-wa-project-management-coordinator-salary
+238,48659.0,"Columbus, OH",https://www.refinery29.com/money-diary-columbus-oh-academic-program-manager-salary
+239,97000.0,"Palo Alto, CA",https://www.refinery29.com/money-diary-palo-alto-ca-executive-personal-assistant-salary
+240,81600.0,"Arlington, VA",https://www.refinery29.com/money-diary-arlington-va-policy-analyst-salary
+241,87193.0,Southern Connecticut,https://www.refinery29.com/money-diary-southern-connecticut-registered-nurse-salary
+242,75000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-artists-agent-salary
+243,52700.0,"Columbus, OH",https://www.refinery29.com/money-diary-columbus-oh-environmental-scientist-salary
+244,50000.0,"Denver, CO",https://www.refinery29.com/money-diary-denver-co-policy-aide-salary
+245,60000.0,"Bergen County, NJ",https://www.refinery29.com/money-diary-bergen-county-new-jersey-web-writer-salary
+246,94000.0,New York City,https://www.refinery29.com/money-diary-new-york-city-registered-nurse-salary
+247,43000.0,"Portland, OR",https://www.refinery29.com/money-diary-portland-or-office-manager-salary
+248,64760.0,"Englewood, CO",https://www.refinery29.com/money-diary-englewood-colorado-engineer-salary
+249,19000.0,"Tallahassee, FL",https://www.refinery29.com/money-diary-tallahassee-florida-medical-student-salary
+250,122000.0,"Mountain View, CA",https://www.refinery29.com/money-diary-mountain-view-ca-engineer-salary
+251,180000.0,"Boston, MA",https://www.refinery29.com/money-diary-boston-ma-safety-professional-joint-salary
+252,29500.0,"Saint Louis, MO",https://www.refinery29.com/money-diary-saint-louis-mo-research-technician-salary
+253,45000.0,New York City,https://www.refinery29.com/money-diary-new-york-ny-leasing-administrator-salary
+254,65000.0,"Perth, Australia",https://www.refinery29.com/money-diary-perth-australia-accountant-salary
+255,65400.0,"Seattle, WA",https://www.refinery29.com/money-diary-seattle-wa-it-professional-salary
+256,54500.0,"Kenosha, WI",https://www.refinery29.com/money-diary-kenosha-wi-retirement-plans-analyst-salary
+257,44000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-marketing-and-communications-associate-salary
+258,56100.0,"Boston, MA",https://www.refinery29.com/money-diary-boston-ma-digital-strategist-salary
+259,68888.0,"Minneapolis, MN",https://www.refinery29.com/money-diary-minneapolis-mn-human-resources-business-partner-salary
+260,38500.0,"Spartanburg, SC",https://www.refinery29.com/money-diary-spartanburg-sc-case-manager-salary
+261,180000.0,"Chicago, IL",https://www.refinery29.com/money-diary-chicago-il-associate-salary
+262,35000.0,New Jersey,https://www.refinery29.com/money-diary-new-jersey-coordinator-salary
+263,41500.0,"Scottsdale, AZ",https://www.refinery29.com/money-diary-scottsdale-az-program-coordinator-salary
+264,59000.0,"Queens, NY",https://www.refinery29.com/money-diary-astoria-new-york-research-analyst-salary
+265,50000.0,"Portland, OR",https://www.refinery29.com/money-diary-portland-or-human-resources-manager-salary
+266,42000.0,"Tallahassee, FL",https://www.refinery29.com/money-diary-tallahassee-fl-policy-analyst-salary
+267,39728.0,"Wilmington, DE",https://www.refinery29.com/money-diary-wilmington-de-web-content-coordinator-salary
+268,17700.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-americorps-member-salary
+269,180000.0,Alaska,https://www.refinery29.com/money-diary-alaska-entrepreneur-salary
+270,41000.0,"Grand Rapids, MI",https://www.refinery29.com/money-diary-grand-rapids-michigan-english-teacher-salary
+271,57000.0,Indiana,https://www.refinery29.com/money-diary-indiana-analyst-salary
+272,260000.0,"San Diego, CA",https://www.refinery29.com/money-diary-san-diego-ca-associate-salary
+273,190371.0,"Fort Worth, TX",https://www.refinery29.com/money-diary-fort-worth-tx-finance-manager-salary
+274,244000.0,"Essex County, MA",https://www.refinery29.com/money-diary-essex-county-ma-marketing-communications-manager-salary
+275,84000.0,"Brooklyn, NY",https://www.refinery29.com/money-diary-brooklyn-ny-interior-designer-salary
+276,60000.0,"Montreal, Canada",https://www.refinery29.com/money-diary-montreal-canada-managing-editor-salary
+277,18000.0,"South Tyrol, Italy",https://www.refinery29.com/money-diary-south-tyrol-italy-researcher-salary
+278,148000.0,"Houston, TX",https://www.refinery29.com/money-diary-houston-tx-business-analyst-salary
+279,54000.0,New York City,https://www.refinery29.com/money-diary-new-york-ny-analyst-salary
+280,92000.0,"Mexico City, Mexico",https://www.refinery29.com/money-diary-mexico-city-mexico-analyst-salary
+281,50000.0,Wyoming,https://www.refinery29.com/money-diary-wyoming-education-program-specialist-salary
+282,260000.0,"Berkeley, CA",https://www.refinery29.com/money-diary-berkeley-ca-software-engineer-salary
+283,60093.0,"Munich, Germany",https://www.refinery29.com/money-diary-munich-office-manager-salary
+284,56084.0,"Melbourne, Australia",https://www.refinery29.com/money-diary-melbourne-australia-health-promotion-officer-salary
+285,35525.0,"Norton Shores, MI",https://www.refinery29.com/money-diary-norton-shores-mi-client-services-advisor-support-salary
+286,90900.0,"Chicago, IL",https://www.refinery29.com/money-diary-chicago-il-project-manager-travel-salary
+287,135000.0,"Boston, MA",https://www.refinery29.com/money-diary-boston-ma-data-scientist-salary
+288,60000.0,"Portland, OR",https://www.refinery29.com/money-diary-portland-or-graphic-designer-salary
+289,99600.0,New York City,https://www.refinery29.com/money-diary-nyc-senior-marketing-analyst-salary
+290,210000.0,"Orange County, CA",https://www.refinery29.com/money-diary-orange-county-ca-sr-marketing-manager-salary
